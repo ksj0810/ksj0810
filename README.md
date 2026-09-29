@@ -52,9 +52,10 @@
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ksj0810&theme=github_dark" />
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ksj0810&theme=github_dark" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ksj0810&theme=github_dark" />
+-->
 
 </div>
 
