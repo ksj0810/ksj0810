@@ -76,17 +76,3 @@
 </picture>
 
 </div>
-
-<br/>
-
----
-
-<div align="center">
-
-### 📫 GitHub
-
-<a href="https://github.com/ksj0810">
-  <img src="https://img.shields.io/badge/GitHub-ksj0810-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-</div>
