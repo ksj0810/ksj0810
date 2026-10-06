@@ -44,13 +44,14 @@
 
 <br/>
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ksj0810&theme=github_dark" />
 
 <br/>
+-->
 
 <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ksj0810&theme=github_dark" />
 
